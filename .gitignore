@@ -1,0 +1,12 @@
+i# Backup
+*~
+.#*
+\#*
+*.bak
+
+# Mac files
+.DS_Store
+
+# Workshop directory
+workshop
+
